@@ -13,6 +13,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Added
  - Added new page to display actor.
 
+## [0.0.3] - 2018-01-21
+### Added
+ - Hovering over pictures shows quotes.
+>>>>>>> f37a93db167f6a7beb529f96435c37de970aceb2
+
 ## [0.0.2] - 2018-01-21
 ### Added
  - New entry for lemon grab.
